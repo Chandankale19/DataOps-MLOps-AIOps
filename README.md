@@ -25,7 +25,7 @@ This repository provides a robust and automated Bash script to download, install
 
    ```bash
    git clone https://github.com/Chandankale19/DataOps-MLOps-AIOps.git
-   cd install-terraform
+   cd DataOps-MLOps-AIOps
 
 2. **Run the Script**
 
